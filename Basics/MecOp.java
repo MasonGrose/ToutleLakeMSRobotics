@@ -1,3 +1,5 @@
+//This will allow your robot to move forward and backwards
+//You will use your gamepads left stick to control the movement of the robot
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
