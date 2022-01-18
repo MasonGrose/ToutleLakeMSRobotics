@@ -6,8 +6,8 @@ import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
 
-@TeleOp(name="Mecanum Drive", group="teleop")
-public class MecanumDrive extends LinearOpMode {
+@TeleOp(name="BasicMovement", group="teleop")
+public class BasicMovement extends LinearOpMode {
     private DcMotor motorRight;
     private DcMotor motorLeft;
     @Override
